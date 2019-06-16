@@ -1,0 +1,10 @@
+.flex-footer {
+    display: flex;
+    flex-wrap: wrap;
+  
+  }
+
+
+  .flex-footer a {
+      color: #555;
+  }
